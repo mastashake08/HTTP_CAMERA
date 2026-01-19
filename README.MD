@@ -1,0 +1,2 @@
+# HTTP ESP Camera
+A Micro Monday project based on the Seeed Xiao S3 Sense a simple HTTP Camera. The device will host a web server and accept commands for taking photo and video and save to the SD card.
